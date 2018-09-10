@@ -1,5 +1,6 @@
-# GridWorld
-GridWorld is a test-bed frame for learning about Markov Decision Processes. This project is meant to be a tool for anyone to get started learning about Markov Decision Processes.
+# Overview
+
+This is the code for [this](https://youtu.be/fRmZck1Dakc) video on Youtube by Siraj Raval as part of the move 37 course at School of AI. GridWorld is a test-bed frame for learning about Markov Decision Processes. This project is meant to be a tool for anyone to get started learning about Markov Decision Processes.
 
 ## Prerequisites
 * Python 3
@@ -34,5 +35,5 @@ __There is no input validation so unexpected behavior will occur for unreasonabl
 ## License
 This project is licensed under the MIT License. In other words, do whatever you want with it! Just remember to give appropriate credit :-)
 
-## Acknowledgements
-* Berkely Intro AI course gave me inspiration on how the UI should look like to best visualize MDPs and RL algorithms.
+## Credits
+Credits for this code go to [mohitd](https://github.com/mohitd/gridworld). I've merely created a wrapper to get people started. 
