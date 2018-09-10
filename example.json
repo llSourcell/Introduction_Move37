@@ -1,0 +1,24 @@
+{
+    "width": 4,
+    "height": 3,
+    "initial_value": 0.0,
+    "discount": 0.9,
+    "living_cost": 0.0,
+    "obstacles": [[1, 1]],
+    "transition_distribution": {
+        "forward": 0.8,
+        "left": 0.1,
+        "right": 0.1,
+        "backward": 0.0
+    },
+    "terminals": [
+        {
+            "state": [0, 3],
+            "reward": 1
+        },
+        {
+            "state": [1, 3],
+            "reward": -1
+        }
+    ]
+}
